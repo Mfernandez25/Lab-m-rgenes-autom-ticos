@@ -1,0 +1,22 @@
+
+#izquierda {
+	border:10px solid yellow;
+	width:240px;
+	height:250px;
+	padding: 40px;
+	margin-bottom:10px;
+	text-align: center;	
+}
+
+#derecha {
+	border:10px solid yellow;
+	width: 240px;
+	height:250px;
+	padding: 40px;
+	margin-bottom:10px;
+	text-align: left;
+	margin: auto;
+}
+p {
+	font-size: 19px;
+}
